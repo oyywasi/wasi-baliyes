@@ -10,6 +10,7 @@
     "whatsapp-chat",
     "whatsapp-group",
     "automation",
+    "wasi-baliyes",
     "multi-device"
   ],
   "homepage": "https://github.com/WhiskeySockets/Baileys",
